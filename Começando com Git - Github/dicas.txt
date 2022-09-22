@@ -1,6 +1,6 @@
-Dicas Git / Git Hub
+###Dicas Git / Git Hub###
 
-*Códigos Fundamentais*
+##*Códigos Fundamentais*##
 
 git init
 
@@ -10,4 +10,4 @@ git init
 
 "git commit -m" (Salva a alteração feita no repositório e deixa pronto para enviar p/ Github)
 
-git status
+"git status" - mostra o status dos arquivos / repositórios
