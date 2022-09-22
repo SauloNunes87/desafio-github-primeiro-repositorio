@@ -1,2 +1,2 @@
-# desafio-github-primeiro-repositorio
+# Primeiro desafio - Git/Github
 Primeiro Desafio de Projeto - Pottential
