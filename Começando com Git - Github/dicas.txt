@@ -1,0 +1,13 @@
+Dicas Git / Git Hub
+
+*Códigos Fundamentais*
+
+git init
+
+"git add" - adiciona os arquivos para ser "commitados"
+
+"git add ." - considera os ultimos arquivos criados / alterados para o repositório
+
+"git commit -m" (Salva a alteração feita no repositório e deixa pronto para enviar p/ Github)
+
+git status
