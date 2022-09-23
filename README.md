@@ -2,7 +2,7 @@
 
 - Alex Kidd in Miracle World
 
-  ![img](https://www.sega-brasil.com.br/fullalbums/jogos/Master%20System/Caixas%20de%20Papelao%20Branca/Alex%20Kidd%20in%20Miracle%20World/alexkiddinmiracleworld_ft_zfm_sls.png)
+  ![img](https://1.bp.blogspot.com/-vpX6ZQqmbgc/YNijARQ7-jI/AAAAAAAAHEk/ZItb-kSwkE0e2KB8ssWR3SPg36vE3vbkgCNcBGAsYHQ/w640-h400/capa%2Bmiracle%2Bworld%2Boriginal.jpg)
 
   
 
